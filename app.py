@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd 
 import streamlit as st 
 from streamlit_pandas_profiling import st_profile_report
-from ydata_profiling import ProfileReport
+from pandas_profiling import ProfileReport
 import seaborn as sns 
 from streamlit_lottie import st_lottie
 import requests
